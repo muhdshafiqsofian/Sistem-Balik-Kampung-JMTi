@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_maklumat" value="name:nama;datatype:string,name:nokp;datatype:string,name:notel;datatype:string,name:alamat;datatype:blob,name:nobilik;datatype:string,name:blok;datatype:string,name:jabatan;datatype:string,name:semester;datatype:string" />
+	<infoitem key="UD_Recordset1" value="name:nama;datatype:string,name:nokp;datatype:string,name:notel;datatype:string,name:alamat;datatype:blob,name:nobilik;datatype:string,name:blok;datatype:string,name:jabatan;datatype:string,name:semester;datatype:string" />
+</info>

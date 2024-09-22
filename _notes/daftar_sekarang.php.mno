@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_daftar" value="name:id;datatype:int,name:nama_pengguna;datatype:string,name:kata_laluan;datatype:string,name:noid;datatype:string,name:email;datatype:string" />
+</info>

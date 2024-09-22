@@ -1,0 +1,145 @@
+@charset "utf-8";
+#kotak1 {
+	width: 900px;
+	margin-right: auto;
+	margin-left: auto;
+	background-color: #cdcdcd;
+}
+#kotak2 {
+	width: 800px;
+	margin-right: auto;
+	margin-left: auto;
+	border-top-width: 10px;
+	border-top-style: solid;
+	border-top-color: #cdcdcd;
+}
+
+#header {
+	height: 100px;
+	width: 800px;
+}
+#menu {
+	background-image: url(images/menu.jpg);
+	height: 60px;
+	width: 800px;
+}
+
+
+
+
+#body {
+	margin-right: auto;
+	margin-left: auto;
+	height: 500px;
+	background-image: url(images/body.jpg);
+	width: 800px;
+	margin-bottom: auto;
+}
+
+#footer {
+	margin-right: auto;
+	margin-left: auto;
+	background-image: url(images/footer.jpg);
+	height: 60px;
+	width: 800px;
+	clear: both;
+	border-bottom-width: 10px;
+	border-bottom-style: solid;
+	border-bottom-color: #cdcdcd;
+}
+#fontmenu {
+	margin-top: 20px;
+	float: left;
+	margin-left: 20px;
+
+}
+
+#body img {
+	margin-top: 40px;
+	margin-left: 150px;
+	border: 5px solid #010dff;
+}
+
+#fontfooter {
+	float: left;
+	margin-top: 20px;
+	margin-left: 15px;
+	color: #FFF;
+	font-weight: bold;
+	font-style: italic;
+}
+#fontbody {
+	float: left;
+	margin-right: 20px;
+	margin-left: 20px;
+	font-size: 18px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+#fontbody2 {
+	float: left;
+	margin-top: 50px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+}
+
+
+
+#login table {
+	float: left;
+	margin-top: 100px;
+	margin-left: 200px;
+}
+#fontmenu b a {
+	color: #000;
+	text-decoration: none;
+}
+#fontmenu b a:hover {
+	color: #010DFF;
+	text-decoration: none;
+	font-family: "Comic Sans MS", cursive;
+}
+#daftar table {
+	margin-top: 100px;
+	margin-left: 200px;
+	float: left;
+}
+#tablebody {
+	margin-top: 20px;
+	margin-left: 140px;
+	float: left;
+}
+table tr td input  {
+	background-color: #4F53CE;
+	font-family: Arial, Helvetica, sans-serif;
+	color: #FFFFFF;
+	font-weight: bold;
+	text-align: center;
+	border: thin solid #000;
+}
+table tr td textarea {
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	color: #FFF;
+	background-color: #4F53CE;
+}
+#fontmenulogout b a {
+	color: #000;
+	text-decoration: none;
+	float: right;
+	margin-top: 20px;
+	margin-right: 20px;
+	font-style: italic;
+}
+
+#fontmenulogout b a:hover {
+	color: #010DFF;
+}
+table {
+	border: thin dashed #010dff;
+}
+#tablebodywarden {
+	margin-top: 5px;
+	margin-left: 15px;
+	font-size: 12px;
+	float: left;
+}
